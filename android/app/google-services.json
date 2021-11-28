@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575344274549",
+    "project_id": "infinity-wallet-232de",
+    "storage_bucket": "infinity-wallet-232de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575344274549:android:428ccfebcea88006189c3c",
+        "android_client_info": {
+          "package_name": "com.infinitymain.v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575344274549-tknrrrq5epet4nd9ephki4eh60rrirer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK_bbW7EFjrJ_nWS7X1_Z483qPLYoEzQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575344274549-tknrrrq5epet4nd9ephki4eh60rrirer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
